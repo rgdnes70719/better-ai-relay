@@ -61,8 +61,6 @@ APINEBULA 是银河录像局旗下的企业级 AI 聚合平台，背靠大平台
 
 [官网地址](https://apinebula.ai/6JS1i2)
 
-🎁 充值时填写优惠码 `ccswitch`，可享九折优惠！
-
 
 ### [hao.ai](https://hao.ai/invite/T3MR3F8Y)
 hao.ai 是面向开发者与团队的高速、稳定大模型统一 API 网关。这个站发展很快，用户体量已经挺大了。
